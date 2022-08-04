@@ -55,10 +55,10 @@ You will also write a script that takes in raw input to create an interactive ex
     <li>most common trip from start to end (i.e., most frequent combination of start station and end station)
    </ul>
 3. Trip duration
-  <ul>
-    <li>total travel time
-    <li>average travel time
-  </ul>
+    <ul>
+      <li>total travel time
+      <li>average travel time
+    </ul>
  
 4. User info
    <ul>
