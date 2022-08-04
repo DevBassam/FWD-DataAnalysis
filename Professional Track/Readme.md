@@ -42,25 +42,30 @@ You will also write a script that takes in raw input to create an interactive ex
   you'll write code to provide the following information:
 
 1. Popular times of travel (i.e., occurs most often in the start time)
- <ul>
- <li>most common month
- <li>most common day of week
- <li>most common hour of day
- </ul>
+   <ul>
+     <li>most common month
+     <li>most common day of week
+     <li>most common hour of day
+   </ul>
 
 2. Popular stations and trip
- . most common start station
- . most common end station
- . most common trip from start to end (i.e., most frequent combination of start station and end station)
-
+   <ul>
+    <li> most common start station
+    <li> most common end station
+    <li>most common trip from start to end (i.e., most frequent combination of start station and end station)
+   </ul>
 3. Trip duration
- . total travel time
- . average travel time
+  <ul>
+    <li>total travel time
+    <li>average travel time
+  </ul>
  
 4. User info
- . counts of each user type
- . counts of each gender (only available for NYC and Chicago)
- . earliest, most recent, most common year of birth (only available for NYC and Chicago)
+   <ul>
+    <li>counts of each user type
+    <li>counts of each gender (only available for NYC and Chicago)
+    <li>earliest, most recent, most common year of birth (only available for NYC and Chicago)
+   </ul>
   
 ## The Files
   To answer these questions using Python, you will need to write a Python script. To help guide your work in this project,
